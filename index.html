@@ -22,6 +22,7 @@
 		<link rel="stylesheet" href="./assets/css/demo/start-hub-x.css">
       
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
+		<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" rel="stylesheet">
 
 
 		<!-- Fonts -->
@@ -61,7 +62,33 @@
     display: block;
 }
 
+/* Change nav background color white while scrolling down */
+.main-header.sticky {
+  background-color: white !important;
+  transition: background-color 0.3s;
+}
+/* For Removing Left Spacing from li Elements: */
+.custom-list li {
+  padding-left: 0;
+  margin-left: 0;
+  /* Adjust as needed, depending on your specific structure */
+}
+
+.custom-list li i.fas,
+.custom-list li i.far {
+  margin-right: 8px; /* Adjust the spacing between icon and text */
+  vertical-align: middle; /* Aligns icon vertically with the text */
+}
+
+
 		</style>
+		<script>
+			window.addEventListener('scroll', function() {
+			  var header = document.getElementById('site-header');
+			  header.classList.toggle('sticky', window.scrollY > 0);
+			});
+		  </script>
+		  
 		<title>Kareerfy | AI Resume Builder</title>
 	</head>
 
@@ -203,59 +230,38 @@
 							</span>
 						</a>
 					</div>
-					<div class="lqd-mobile-sec-nav w-full absolute z-10">
+					<div class="lqd-mobile-sec-nav w-full absolute z-10" style="background-color: white;">
 						<div class="mobile-navbar-collapse navbar-collapse collapse w-full" id="lqd-mobile-sec-nav" aria-expanded="false" role="navigation">
 							<ul id="mobile-primary-nav" class="reset-ul lqd-mobile-main-nav main-nav nav" data-localscroll="true" data-localscroll-options='{"itemsSelector":"> li > a", "trackWindowScroll": true, "includeParentAsOffset": true}'>
 								<li class="menu-item-has-children text-14 font-medium leading-2em">
-									<a class="hover:text-black" href="#banner">
-										Services
-										<span class="submenu-expander">
-											<svg xmlns="http://www.w3.org/2000/svg" width="21" height="32" viewbox="0 0 21 32" style="width: 1em; height: 1em;">
-												<path fill="currentColor" d="M10.5 18.375l7.938-7.938c.562-.562 1.562-.562 2.125 0s.562 1.563 0 2.126l-9 9c-.563.562-1.5.625-2.063.062L.437 12.562C.126 12.25 0 11.876 0 11.5s.125-.75.438-1.063c.562-.562 1.562-.562 2.124 0z"></path>
-											</svg>
-										</span>
-										
-									</a>
+									<a class="hover:text-black" href="#banner">Services</a>
 									<ul class="dropdown-content-local"> <!-- Dropdown content -->
 										<li><a href="#"><i class="fas fa-file p-10" style="color: #21214f;"></i> Resume Builder</a></li>
 										<li><a href="#"><i class="fa-solid fa-envelope-open-text p-10" style="color: #21214f;"></i> Cover Letter</a></li>
 										<li><a href="#"><i class="fa-solid fa-pen-to-square p-10" style="color: #21214f;"></i> ATS Resume Checker</a></li>
 									</ul>
 								</li>
-								
-								
+					
 								<li class="text-14 font-medium leading-2em">
-									<a class="hover:text-black" href="ats.html">
-										Check ATS Score
-										<span class="link-badge text-primary">NEW</span>
-									</a>
+									<a class="hover:text-black" href="ats.html">Check ATS Score<span class="link-badge text-primary">NEW</span></a>
 								</li>
+					
 								<li class="menu-item-has-children text-14 font-medium leading-2em">
-									<a class="hover:text-black" href="">
-										Company
-										<span class="submenu-expander">
-											<svg xmlns="http://www.w3.org/2000/svg" width="21" height="32" viewbox="0 0 21 32" style="width: 1em; height: 1em;">
-												<path fill="currentColor" d="M10.5 18.375l7.938-7.938c.562-.562 1.562-.562 2.125 0s.562 1.563 0 2.126l-9 9c-.563.562-1.5.625-2.063.062L.437 12.562C.126 12.25 0 11.876 0 11.5s.125-.75.438-1.063c.562-.562 1.562-.562 2.124 0z"></path>
-											</svg>
-										</span>
-										
-									</a>
+									<a class="hover:text-black" href="">Company</a>
 									<ul class="dropdown-content-local"> <!-- Dropdown content -->
 										<li><a href="#"><i class="fa-solid fa-address-card p-10" style="color: #21214f;"></i>About us</a></li>
 										<li><a href="#"><i class="fa-light fa-print-magnifying-glass p-10" style="color: #21214f;"></i> Why Kareerfy</a></li>
 										<li><a href="#"><i class="fa-solid fa-circle-dollar p-10" style="color: #21214f;"></i>Pricing</a></li>
 									</ul>
-									
 								</li>
-								
+					
 								<li class="text-14 font-medium leading-2em is-active">
-									<a class="hover:text-black" href="contact.html">
-										Contact
-									</a>
+									<a class="hover:text-black" href="contact.html">Contact</a>
 								</li>
 							</ul>
 						</div>
 					</div>
+					
 				</div>
 			</header>
 
