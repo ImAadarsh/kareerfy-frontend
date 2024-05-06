@@ -489,7 +489,7 @@
 											<div class="accordion-heading" role="tab" id="heading-lqd-item-1" data-id="lqd-item-1">
 												<h4 class="accordion-title text-18 leading-1/5em text-black" data-bs-controls="lqd-item-1">
 													<a class="collapsed" data-bs-toggle="collapse" data-bs-parent="#accordion-help" href="#lqd-item-1" aria-expanded="false" aria-controls="lqd-item-1">
-														<span>End-to-end encryption for business messages for iOS Devices</span>
+														<span>What is Kareefy?</span>
 														<span class="accordion-expander text-purple-500 text-22 absolute">
 															<i class="lqd-icn-ess icon-ion-ios-add"></i>
 															<i class="lqd-icn-ess icon-ion-ios-remove"></i>
@@ -500,7 +500,8 @@
 											<div id="lqd-item-1" class="accordion-collapse collapse" role="tabpanel" aria-labelledby="heading-lqd-item-1" data-bs-parent="#accordion-help">
 												<div class="accordion-content">
 													<div class="ld-fancy-heading">
-														<p class="ld-fh-element mb-1/5em text-18 leading-1/6em tracking-0">Ultimate shop experience. Effortlessly build high-converting online shops and start selling in a few minutes.</p>
+														<p class="ld-fh-element mb-1/5em text-18 leading-1/6em tracking-0">Kareefy is a comprehensive online platform designed to assist job seekers in crafting professional resumes tailored to their desired positions and industries. Our platform utilizes advanced algorithms and industry expertise to optimize resumes for applicant tracking systems (ATS) and enhance visibility to potential employers.
+</p>
 													</div>
 												</div>
 											</div>
@@ -509,7 +510,7 @@
 											<div class="accordion-heading" role="tab" id="heading-lqd-item-2" data-id="lqd-item-2">
 												<h4 class="accordion-title text-18 leading-1/5em text-black" data-bs-controls="lqd-item-2">
 													<a class="collapsed" data-bs-toggle="collapse" data-bs-parent="#accordion-help" href="#lqd-item-2" aria-expanded="false" aria-controls="lqd-item-2">
-														<span>Sending media, documents, location and contacts</span>
+														<span>Is Kareefy suitable for all industries and job levels?</span>
 														<span class="accordion-expander text-purple-500 text-22 absolute">
 															<i class="lqd-icn-ess icon-ion-ios-add"></i>
 															<i class="lqd-icn-ess icon-ion-ios-remove"></i>
@@ -520,7 +521,8 @@
 											<div id="lqd-item-2" class="accordion-collapse collapse" role="tabpanel" aria-labelledby="heading-lqd-item-2" data-bs-parent="#accordion-help">
 												<div class="accordion-content">
 													<div class="ld-fancy-heading">
-														<p class="ld-fh-element mb-1/5em text-18 leading-1/6em tracking-0">Ultimate shop experience. Effortlessly build high-converting online shops and start selling in a few minutes.</p>
+														<p class="ld-fh-element mb-1/5em text-18 leading-1/6em tracking-0">Yes, Kareefy caters to individuals across various industries and job levels, from entry-level positions to executive roles. Our platform offers a diverse range of templates and customization options to accommodate the unique needs of every user.
+</p>
 													</div>
 												</div>
 											</div>
@@ -529,7 +531,7 @@
 											<div class="accordion-heading" role="tab" id="heading-lqd-item-3" data-id="lqd-item-3">
 												<h4 class="accordion-title text-18 leading-1/5em text-black" data-bs-controls="lqd-item-3">
 													<a class="collapsed" data-bs-toggle="collapse" data-bs-parent="#accordion-help" href="#lqd-item-3" aria-expanded="false" aria-controls="lqd-item-3">
-														<span>Get insights on key metrics like response time and issue volume</span>
+														<span>Is my information secure with Kareefy?</span>
 														<span class="accordion-expander text-purple-500 text-22 absolute">
 															<i class="lqd-icn-ess icon-ion-ios-add"></i>
 															<i class="lqd-icn-ess icon-ion-ios-remove"></i>
@@ -540,7 +542,8 @@
 											<div id="lqd-item-3" class="accordion-collapse collapse" role="tabpanel" aria-labelledby="heading-lqd-item-3" data-bs-parent="#accordion-help">
 												<div class="accordion-content">
 													<div class="ld-fancy-heading">
-														<p class="ld-fh-element mb-1/5em text-18 leading-1/6em tracking-0">Ultimate shop experience. Effortlessly build high-converting online shops and start selling in a few minutes.</p>
+														<p class="ld-fh-element mb-1/5em text-18 leading-1/6em tracking-0"> Yes, Kareefy takes data privacy and security seriously. We utilize industry-standard encryption protocols to safeguard user information and maintain strict confidentiality measures. Your personal and professional data are protected throughout the resume-building process.
+</p>
 													</div>
 												</div>
 											</div>
@@ -549,7 +552,7 @@
 											<div class="accordion-heading" role="tab" id="heading-lqd-item-4" data-id="lqd-item-4">
 												<h4 class="accordion-title text-18 leading-1/5em text-black" data-bs-controls="lqd-item-4">
 													<a class="collapsed" data-bs-toggle="collapse" data-bs-parent="#accordion-help" href="#lqd-item-4" aria-expanded="false" aria-controls="lqd-item-4">
-														<span>Calling unavailable in some countries</span>
+														<span>Does Kareefy offer additional services besides resume building?</span>
 														<span class="accordion-expander text-purple-500 text-22 absolute">
 															<i class="lqd-icn-ess icon-ion-ios-add"></i>
 															<i class="lqd-icn-ess icon-ion-ios-remove"></i>
@@ -560,7 +563,8 @@
 											<div id="lqd-item-4" class="accordion-collapse collapse" role="tabpanel" aria-labelledby="heading-lqd-item-4" data-bs-parent="#accordion-help">
 												<div class="accordion-content">
 													<div class="ld-fancy-heading">
-														<p class="ld-fh-element mb-1/5em text-18 leading-1/6em tracking-0">Ultimate shop experience. Effortlessly build high-converting online shops and start selling in a few minutes.</p>
+														<p class="ld-fh-element mb-1/5em text-18 leading-1/6em tracking-0"> In addition to resume optimization, Kareefy offers supplementary services such as cover letter creation, LinkedIn profile optimization, and job application tracking. Our goal is to provide comprehensive support to job seekers throughout their career advancement journey.
+</p>
 													</div>
 												</div>
 											</div>
@@ -569,7 +573,7 @@
 											<div class="accordion-heading" role="tab" id="heading-lqd-item-5" data-id="lqd-item-5">
 												<h4 class="accordion-title text-18 leading-1/5em text-black" data-bs-controls="lqd-item-5">
 													<a class="collapsed" data-bs-toggle="collapse" data-bs-parent="#accordion-help" href="#lqd-item-5" aria-expanded="false" aria-controls="lqd-item-5">
-														<span>Problems sending or receiving messages</span>
+														<span>Can I edit my resume after generating it with Kareefy?</span>
 														<span class="accordion-expander text-purple-500 text-22 absolute">
 															<i class="lqd-icn-ess icon-ion-ios-add"></i>
 															<i class="lqd-icn-ess icon-ion-ios-remove"></i>
@@ -580,7 +584,8 @@
 											<div id="lqd-item-5" class="accordion-collapse collapse" role="tabpanel" aria-labelledby="heading-lqd-item-5" data-bs-parent="#accordion-help">
 												<div class="accordion-content">
 													<div class="ld-fancy-heading">
-														<p class="ld-fh-element mb-1/5em text-18 leading-1/6em tracking-0">Ultimate shop experience. Effortlessly build high-converting online shops and start selling in a few minutes.</p>
+														<p class="ld-fh-element mb-1/5em text-18 leading-1/6em tracking-0"> Absolutely! Kareefy provides users with the flexibility to edit and customize their resumes at any time. You can easily update information, adjust formatting, and tailor content to specific job opportunities as needed.
+</p>
 													</div>
 												</div>
 											</div>

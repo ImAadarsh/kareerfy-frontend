@@ -1,5 +1,5 @@
 <header id="site-header" class="main-header main-header-overlay sticky-header-noshadow" data-sticky-header="true" data-sticky-values-measured="false">
-				<div class="lqd-hide-onstuck w-full flex items-center justify-center bg-center bg-cover bg-no-repeat module-header-top lg:hidden" style="background-image: url(./assets/images/demo/start-hub-x/bg/header-bg1.jpg);">
+				<div id="linkedinPage" class="lqd-hide-onstuck w-full flex items-center justify-center bg-center bg-cover bg-no-repeat module-header-top lg:hidden" style="background-image: url(./assets/images/demo/start-hub-x/bg/header-bg1.jpg);">
 					<div class="w-950 flex items-stretch justify-center gap-30 py-5">
 						<a class="btn btn-solid btn-icon-shaped text-10 font-semibold uppercase tracking-1 text-white bg-white-10 rounded-4 module-btn-xs" href="#">
 							<span data-text="Free Update" class="btn-txt">No Credit Card Required </span>
@@ -173,31 +173,78 @@
 						<div class="mobile-navbar-collapse navbar-collapse collapse w-full" id="lqd-mobile-sec-nav" aria-expanded="false" role="navigation">
 							<ul id="mobile-primary-nav" class="reset-ul lqd-mobile-main-nav main-nav nav" data-localscroll="true" data-localscroll-options='{"itemsSelector":"> li > a", "trackWindowScroll": true, "includeParentAsOffset": true}'>
 								<li class="menu-item-has-children text-14 font-medium leading-2em">
-									<a class="hover:text-black" href="#banner">Services</a>
+									<a class="hover:text-black" href="#">Services</a>
 									<ul class="dropdown-content-local"> <!-- Dropdown content -->
-										<li><a href="https://resume.kareerfy.com/"><i class="fas fa-file p-10" style="color: #21214f;"></i> Resume Builder</a></li>
+													<li><a href="https://resume.kareerfy.com/"><i class="fas fa-file p-10" style="color: #21214f;"></i> Resume Builder</a></li>
 													<li><a href="https://gpt.kareerfy.com"><i class="fa-solid fa-envelope-open-text p-10" style="color: #21214f;"></i> Interview GPT</a></li>
 													<li><a href="https://resume.kareerfy.com/resume-parser"><i class="fa-solid fa-pen-to-square p-10" style="color: #21214f;"></i> ATS Resume Checker</a></li>
 													<li><a href="https://headshots.kareerfy.com/"><i class="fa-solid fa-user p-10" style="color: #21214f;"></i>AI Headshots</a></li>
+                                                    <li><a href="job-search.php"><i class="fa-solid fa-user p-10" style="color: #21214f;"></i>Job Search</a></li>
 												</ul>
 								</li>
 					
 								<li class="text-14 font-medium leading-2em">
-									<a class="hover:text-black" href="https://resume.kareerfy.com/resume-parser">Check ATS Score<span class="link-badge text-primary">NEW</span></a>
-								</li>
-					
-								<li class="menu-item-has-children text-14 font-medium leading-2em">
-									<a class="hover:text-black" href="">Company</a>
-									<ul class="dropdown-content-local"> <!-- Dropdown content -->
-										<li><a href="#"><i class="fa-solid fa-address-card p-10" style="color: #21214f;"></i>About us</a></li>
-										<li><a href="#"><i class="fa-light fa-print-magnifying-glass p-10" style="color: #21214f;"></i> Why Kareerfy</a></li>
-										<li><a href="#"><i class="fa-solid fa-circle-dollar p-10" style="color: #21214f;"></i>Pricing</a></li>
-									</ul>
-								</li>
-					
-								<li class="text-14 font-medium leading-2em is-active">
-									<a class="hover:text-black" href="contact.php">Contact</a>
-								</li>
+												<a class="hover:text-black" href="https://resume.kareerfy.com/resume-parser">
+													Check ATS Score
+													<span class="link-badge text-primary">NEW</span>
+												</a>
+											</li>
+                                            <li class="menu-item-has-children text-14 font-medium leading-2em">
+													<a class="hover:text-black" href="#">
+														Resources
+													
+														
+													</a>
+													<ul class="dropdown-content-local"> <!-- Dropdown content -->
+														<li><a href="#"><i class="fas fa-database p-10" style="color: #21214f;"></i> Actively Hiring Database<span class="link-badge text-primary">Upcoming</span></a></li>
+														<li><a href="#"><i class="fa-solid fa-file p-10" style="color: #21214f;"></i>Resume Template<span class="link-badge text-primary">Upcoming</span></a></li>
+														<li><a href="#"><i class="fa-solid fa-users p-10" style="color: #21214f;"></i> Community<span class="link-badge text-primary">Upcoming</span></a></li>
+														<li><a href="#"><i class="fa-solid fa-user-tie p-10" style="color: #21214f;"></i>Interview Guides<span class="link-badge text-primary">Upcoming</span></a></li>
+														<li><a href="#"><i class="fa-solid fa-lightbulb p-10" style="color: #21214f;"></i>Job Search Tips<span class="link-badge text-primary">Upcoming</span></a></li>
+														<li><a href="#"><i class="fa-solid fa-atom p-10" style="color: #21214f;"></i>ChatGPT Guides<span class="link-badge text-primary">Upcoming</span></a></li>
+														<li><a href="help-center.php"><i class="fa-solid fa-question-circle p-10" style="color: #21214f;"></i>Help Center</a></li>
+													</ul>
+												</li>
+                                                <li class="menu-item-has-children text-14 font-medium leading-2em">
+													<a class="hover:text-black" href="#">
+														For Organizations
+														
+														<span class="link-icon inline-flex hide-if-empty right-icon">
+															<i class="lqd-icn-ess icon-ion-ios-arrow-down"></i>
+														</span>
+													</a>
+													<ul class="dropdown-content-local"> <!-- Dropdown content -->
+														<li><a href="overview.php"><i class="fas fa-binoculars p-10" style="color: #21214f;"></i>Overview<span class="link-badge text-primary">Upcoming</span></a></li>
+														<li><a href="#"><i class="fa-solid fa-graduation-cap p-10" style="color: #21214f;"></i>University Career Centres<span class="link-badge text-primary">Upcoming</span></a></li>
+														<li><a href="#"><i class="fa-solid fa-briefcase p-10" style="color: #21214f;"></i>Career Coaches<span class="link-badge text-primary">Upcoming</span></a></li>
+														<li><a href="#"><i class="fa-regular fa-umbrella p-10" style="color: #21214f;"></i>Bootcamps<span class="link-badge text-primary">Upcoming</span></a></li>
+														<li><a href="#"><i class="fa-regular fa-window-restore p-10" style="color: #21214f;"></i>Workforce Development<span class="link-badge text-primary">Upcoming</span></a></li>
+														<li><a href="#"><i class="fa-sharp fa-solid fa-screen-users p-10" style="color: #21214f;"></i>Outplacement<span class="link-badge text-primary">Upcoming</span></a></li>
+														<li><a href="#"><i class="fa-solid fa-badge-check p-10" style="color: #21214f;"></i>Products<span class="link-badge text-primary">Upcoming</span></a></li>
+														<li><a href="#"><i class="fa-solid fa-handshake p-10" style="color: #21214f;"></i>Partnerships<span class="link-badge text-primary">Upcoming</span></a></li>
+													</ul>
+												</li>
+											<li class="menu-item-has-children text-14 font-medium leading-2em">
+												<a class="hover:text-black" href="#">
+													Company
+													
+													
+												</a>
+												<ul class="dropdown-content-local"> <!-- Dropdown content -->
+                                                <li><a href="https://blog.kareerfy.com"><i class="fa-light fa-file p-10" style="color: #21214f;"></i>Blogs</a></li>
+													<li><a href="about.php"><i class="fa-light fa-address-card p-10" style="color: #21214f;"></i>About us</a></li>
+													<li><a href="why.php"><i class="fa-light fa-print-magnifying-glass p-10" style="color: #21214f;"></i> Why Kareerfy</a></li>
+													<li><a href="price.php"><i class="fa-light fa-circle-dollar p-10" style="color: #21214f;"></i>Pricing</a></li>
+												</ul>
+												
+											</li>
+											
+											<li class="text-14 font-medium leading-2em is-active">
+												<a class="hover:text-black" href="contact.php">
+													Contact
+													
+												</a>
+											</li>
 							</ul>
 						</div>
 					</div>

@@ -20,7 +20,7 @@
 		<link rel="stylesheet" href="./assets/css/demo/start-hub-4/base.css">
 		<link rel="stylesheet" href="./assets/css/demo/start-hub-4/start-hub-4.css">
 		
-		<link rel="stylesheet" href="./assets/css/demo/start-hub-x.css">
+		<!-- <link rel="stylesheet" href="./assets/css/demo/start-hub-x.css"> -->
 		
 		
 		<!-- Fonts -->

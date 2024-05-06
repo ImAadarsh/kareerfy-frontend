@@ -40,14 +40,14 @@
 								<div class="col col-12 col-md-6 text-start module-first" data-custom-animations="true" data-ca-options='{"triggerHandler":"inview","animationTarget":"h6, h2, p,.lqd-counter, figure","duration":"1800","startDelay":"800","delay":"180","ease":"power4.out","direction":"forward","initValues":{"y":60,"transformOriginX":50,"transformOriginY":50,"transformOriginZ":"0px","opacity":0},"animations":{"y":0,"transformOriginX":50,"transformOriginY":50,"transformOriginZ":"0px","opacity":1}}'>
 									<div class="flex flex-col items-start module-title">
 										<h6 class="ld-fh-element py-5 px-15 mb-1/25em bg-red-500 rounded-100 text-13 uppercase font-semibold tracking-0/1em text-white"> Services</h6>
-										<h2 class="ld-fh-element mb-0 text-28 font-medium leading-1/15em">We create world-class digital products materials that communicate clearly.</h2>
+										<h2 class="ld-fh-element mb-0 text-28 font-medium leading-1/15em">Unlock Your Career Potential with Kareerfy: Where AI Fuels Your Success Story.</h2>
 									</div>
 								</div>
 								<div class="col col-12 col-md-6 col-lg-5 offset-lg-1" data-custom-animations="true" data-ca-options='{"triggerHandler":"inview","animationTarget":"p","duration":"1800","startDelay":"1100","delay":"180","ease":"power4.out","direction":"forward","initValues":{"y":30,"transformOriginX":50,"transformOriginY":50,"transformOriginZ":"0px","opacity":0},"animations":{"y":0,"transformOriginX":50,"transformOriginY":50,"transformOriginZ":"0px","opacity":1}}'>
 									<p class="ld-fh-element mb-0 text-16 leading-1/6em text-black">
-                                    Kareerfy is a thriving creative digital media &amp; design agency
-										<br>
-										based by the valley in San Francisco.
+                                    Kareerfy is not just another career platform ,  it's a game-changer
+									
+										Gain access to innovative tools tailored to enhance your journey.
 									</p>
 								</div>
 							</div>
@@ -67,9 +67,9 @@
 										</span>
 										</div>
 										<div class="contents">
-											<h3 class="mb-15 text-18 leading-1/5em">Branding Strategy</h3>
+											<h3 class="mb-15 text-18 leading-1/5em">Goal Setting</h3>
 											<p>
-												<span class="text-15 text-gray-500">Focus and target your audience through the right channels.</span>
+												<span class="text-15 text-gray-500">Set clear goals for your job seekers & track their progress over time.</span>
 											</p>
 										</div>
 									</div>
@@ -82,9 +82,9 @@
 										</span>
 										</div>
 										<div class="contents">
-											<h3 class="mb-15 text-18 leading-1/5em">Branding Strategy</h3>
+											<h3 class="mb-15 text-18 leading-1/5em">Job tracker</h3>
 											<p>
-												<span class="text-15 text-gray-500">Focus and target your audience through the right channels.</span>
+												<span class="text-15 text-gray-500">Track all job search progress & outcomes in a single Kanban board. </span>
 											</p>
 										</div>
 									</div>
@@ -97,9 +97,9 @@
 										</span>
 										</div>
 										<div class="contents">
-											<h3 class="mb-15 text-18 leading-1/5em">Web Development</h3>
+											<h3 class="mb-15 text-18 leading-1/5em">Job Seeker management </h3>
 											<p>
-												<span class="text-15 text-gray-500">Focus and target your audience through the right channels.</span>
+												<span class="text-15 text-gray-500">Keep all your job seekers organized in one central location for easy management. </span>
 											</p>
 										</div>
 									</div>
@@ -112,9 +112,9 @@
 										</span>
 										</div>
 										<div class="contents">
-											<h3 class="mb-15 text-18 leading-1/5em">Mobile Apps</h3>
+											<h3 class="mb-15 text-18 leading-1/5em">Document & Profile Review</h3>
 											<p>
-												<span class="text-15 text-gray-500">Focus and target your audience through the right channels.</span>
+												<span class="text-15 text-gray-500">Provide expert feedback on resumes, cover letters, LinkedIn profiles, etc. for better job matches.</span>
 											</p>
 										</div>
 									</div>
@@ -136,7 +136,7 @@
 													<div class="w-30percent relative flex border-top border-black-50"></div>
 												</div>
 												<div class="col col-8 animation-element">
-													<h6 class="ld-fh-element mb-0/5em text-12 uppercase tracking-0/01em font-normal text-black"> Our services</h6>
+													<h6 class="ld-fh-element mb-0/5em text-12 uppercase tracking-0/01em font-normal text-black"> Our Features</h6>
 												</div>
 												<div class="col col-2 text-end sm:text-start animation-element">
 													<h6 class="ld-fh-element mb-0/5em text-12 font-normal"> 01</h6>
@@ -174,32 +174,33 @@
 								</div>
 								<div class="col col-12 col-md-6">
 									<div class="module-content relative flex flex-col items-start pr-5percent pl-15percent lg:pr-0">
-										<p class="ld-fh-element mb-0/5em text-12 uppercase tracking-0/05em text-black">What we do</p>
-										<h2 class="ld-fh-element mb-0/4em text-65 leading-0/8em text-black text-init"> Product Strategy</h2>
-										<p class="ld-fh-element mb-2em text-16 leading-1/6em text-black"> Through a deep understanding of our audience’s makeup and motivations, we design digital experiences that connect with people.</p>
+										<p class="ld-fh-element mb-0/5em text-12 uppercase tracking-0/05em text-black">Empowering Job Seekers</p>
+										<h2 class="ld-fh-element mb-0/4em text-65 leading-0/8em text-black text-init">Features Overview</h2>
+										<p class="ld-fh-element mb-2em text-16 leading-1/6em text-black">Streamline Your Journey with Our AI Suite, Saving Hours of Manual Work.</p>
 										<div class="w-full relative">
 											<div class="flex flex-wrap -mx-15 mb-50 md:mb-0">
 												<div class="w-50percent px-15 sm:w-full">
 													<div class="one-bullet-list mb-1em">
 														<ul class="reset-ul module-list">
-															<li class="flex items-center mb-0/5em text-black">Web Development</li>
-															<li class="flex items-center mb-0/5em text-black">Brand Strategy</li>
-															<li class="flex items-center mb-0/5em text-black">Art Direction</li>
-															<li class="flex items-center mb-0/5em text-black">Graphic Design</li>
-															<li class="flex items-center mb-0/5em text-black">Print Design</li>
-															<li class="flex items-center mb-0/5em text-black">Motion Graphics</li>
+															<li class="flex items-center mb-0/5em text-black">AI Resume Builder</li>
+															<li class="flex items-center mb-0/5em text-black">AI Cover Letter Generator</li>
+															<li class="flex items-center mb-0/5em text-black">AI LinkedIn Optimisation</li>
+															<li class="flex items-center mb-0/5em text-black">AI Elevator Pitch</li>
+															<li class="flex items-center mb-0/5em text-black">AI Mock Interview</li>
+															
+														
 														</ul>
 													</div>
 												</div>
 												<div class="w-50percent px-15 sm:w-full">
 													<div class="one-bullet-list mb-1em">
 														<ul class="reset-ul module-list">
-															<li class="flex items-center mb-0/5em text-black">Content Management</li>
-															<li class="flex items-center mb-0/5em text-black">Brand Strategy</li>
-															<li class="flex items-center mb-0/5em text-black">WordPress</li>
-															<li class="flex items-center mb-0/5em text-black">SEO Analytics</li>
-															<li class="flex items-center mb-0/5em text-black">Copywriting</li>
-															<li class="flex items-center mb-0/5em text-black">Mobile App Design</li>
+															<li class="flex items-center mb-0/5em text-black">Autofill Applications</li>
+															<li class="flex items-center mb-0/5em text-black">Skill Gap Analyzer</li>
+															<li class="flex items-center mb-0/5em text-black">Job Saving</li>
+															<li class="flex items-center mb-0/5em text-black">Networking Tracking</li>
+															<li class="flex items-center mb-0/5em text-black">Application Autofill</li>
+															<li class="flex items-center mb-0/5em text-black">Resource Sharing</li>
 														</ul>
 													</div>
 												</div>
@@ -224,9 +225,9 @@
 												1
 											</p>
 										</div>
-										<p class="ld-fh-element relative mb-0/5em text-14 uppercase tracking-0/1em text-black"> STEP 1</p>
-										<h2 class="ld-fh-element relative mb-0/7em leading-1/1em font-normal"> Wireframe Design.</h2>
-										<p class="ld-fh-element relative mb-0/5em text-16 leading-1/6em text-black"> Tailor made digital products and creative solutions for small businesses and freelancers.</p>
+										<p class="ld-fh-element relative mb-0/5em text-14 uppercase tracking-0/1em text-black"> Feature 1</p>
+										<h2 class="ld-fh-element relative mb-0/7em leading-1/1em font-normal"> Time-saving AI Tools</h2>
+										<p class="ld-fh-element relative mb-0/5em text-16 leading-1/6em text-black"> Save time with our AI Resume Builder, Cover Letter Generator, and LinkedIn Optimization.</p>
 									</div>
 								</div>
 								<div class="col col-12 col-md-4">
@@ -237,9 +238,9 @@
 												2
 											</p>
 										</div>
-										<p class="ld-fh-element relative mb-0/5em text-14 uppercase tracking-0/1em text-black"> STEP 2</p>
-										<h2 class="ld-fh-element relative mb-0/7em leading-1/1em font-normal"> Web App Development</h2>
-										<p class="ld-fh-element relative mb-0/5em text-16 leading-1/6em text-black"> Our web development starts and ends with a best-in-class experience strategy.</p>
+										<p class="ld-fh-element relative mb-0/5em text-14 uppercase tracking-0/1em text-black"> Feature 2</p>
+										<h2 class="ld-fh-element relative mb-0/7em leading-1/1em font-normal">Personalized Career Support</h2>
+										<p class="ld-fh-element relative mb-0/5em text-16 leading-1/6em text-black"> Identify skill gaps, practice mock interviews, and expand your network effortlessly.</p>
 									</div>
 								</div>
 								<div class="col col-12 col-md-4">
@@ -250,9 +251,9 @@
 												3
 											</p>
 										</div>
-										<p class="ld-fh-element relative mb-0/5em text-14 uppercase tracking-0/1em text-black"> STEP 3</p>
-										<h2 class="ld-fh-element relative mb-0/7em leading-1/1em font-normal"> Launch and maintain.</h2>
-										<p class="ld-fh-element relative mb-0/5em text-16 leading-1/6em text-black"> We look to engage with our clients beyond the conventional design and agency relationship,</p>
+										<p class="ld-fh-element relative mb-0/5em text-14 uppercase tracking-0/1em text-black"> Feature 3</p>
+										<h2 class="ld-fh-element relative mb-0/7em leading-1/1em font-normal"> Seamless Application Process</h2>
+										<p class="ld-fh-element relative mb-0/5em text-16 leading-1/6em text-black"> Apply for jobs seamlessly with <br> autofill features and keep track of opportunities.</p>
 									</div>
 								</div>
 							</div>

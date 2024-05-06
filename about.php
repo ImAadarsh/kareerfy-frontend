@@ -23,7 +23,7 @@
 							<div class="row items-center">
 								<div class="col col-12 col-md-8" data-custom-animations="true" data-ca-options='{"triggerHandler":"inview","animationTarget":"all-childs","duration":"1600","delay":"12","ease":"power4.out","direction":"forward","initValues":{"rotationX":75,"rotationY":10,"rotationZ":10,"transformOriginX":50,"transformOriginY":0,"opacity":0},"animations":{"rotationX":0,"rotationY":0,"rotationZ":0,"transformOriginX":50,"transformOriginY":50,"transformOriginZ":"0px","opacity":1}}'>
 									<h6 class="ld-fh-element lqd-split-lines mb-1/5em text-10 uppercase font-semibold tracking-0/1em text-black" data-split-text="true" data-split-options='{"type":"lines"}'> About Us</h6>
-									<h2 class="ld-fh-element lqd-split-chars mb-0 text-38 font-medium leading-1/1em" data-split-text="true" data-split-options='{"type":"chars, words"}'> We create world-class digital products materials that communicate clearly.</h2>
+									<h2 class="ld-fh-element lqd-split-chars mb-0 text-38 font-medium leading-1/1em" data-split-text="true" data-split-options='{"type":"chars, words"}'> Kareerfy is not just another career platform, it's a game-changer. Access innovative tools tailored to enhance your professional journey. </h2>
 								</div>
 								<div class="col col-12 col-md-3 offset-md-1" data-custom-animations="true" data-ca-options='{"triggerHandler":"inview","animationTarget":"all-childs","duration":"1600","startDelay":"650","delay":"160","ease":"power4.out","direction":"forward","initValues":{"y":30,"scaleY":1.1,"rotationX":21,"rotationZ":3,"transformOriginX":0,"transformOriginY":50,"transformOriginZ":"0px","opacity":0},"animations":{"y":0,"scaleY":1,"rotationX":0,"rotationZ":0,"transformOriginX":50,"transformOriginY":50,"transformOriginZ":"0px","opacity":1}}'>
 									<div class="lqd-fancy-menu lqd-custom-menu menu-items-has-border lqd-menu-td-none relative">
@@ -49,7 +49,7 @@
 													<span class="link-icon right-icon icon-push-to-edge">
 														<i class="lqd-icn-ess icon-ion-ios-arrow-down"></i>
 													</span>
-													International Awards
+													Features Overview
 												</a>
 											</li>
 										</ul>
@@ -83,24 +83,24 @@
 								<div class="col col-12 col-md-9">
 									<div class="module-title w-full relative flex flex-col items-start mb-65" data-custom-animations="true" data-ca-options='{"triggerHandler":"inview","animationTarget":"all-childs","duration":"1600","delay":"10","ease":"power4.out","direction":"forward","initValues":{"rotationX":75,"rotationY":10,"rotationZ":10,"transformOriginX":50,"transformOriginY":0,"transformOriginZ":"0px","opacity":0},"animations":{"rotationX":0,"rotationY":0,"rotationZ":0,"transformOriginX":50,"transformOriginY":50,"transformOriginZ":"0px","opacity":1}}'>
 										<h6 class="ld-fh-element py-5 px-15 mb-1/25em bg-red-500 rounded-100 text-10 uppercase font-semibold tracking-0/1em text-white"> our vision</h6>
-										<h2 class="ld-fh-element lqd-split-chars mb-0 text-22 font-medium leading-1/7em" data-split-text="true" data-split-options='{"type":"chars, words"}'> We’re a brand strategy and digital design agency, building brands that matter in culture With more than ten years of knowledge and expertise.</h2>
+										<h2 class="ld-fh-element lqd-split-chars mb-0 text-22 font-medium leading-1/7em" data-split-text="true" data-split-options='{"type":"chars, words"}'>Our Vision is to revolutionize the way individuals craft their professional identities. We aim to empower job seekers with a comprehensive suite of tools, including resume building, JD (Job Description) Checker, and ATS (Applicant Tracking System) optimization.</h2>
 									</div>
 								</div>
 								<div class="col col-12 col-md-4 col-lg-3 offset-lg-2" data-custom-animations="true" data-ca-options='{"triggerHandler":"inview","animationTarget":"all-childs","duration":"1600","startDelay":"350","delay":"160","ease":"power4.out","direction":"forward","initValues":{"y":65,"rotationY":10,"rotationZ":2,"transformOriginX":0,"transformOriginY":50,"transformOriginZ":"0px","opacity":0},"animations":{"y":0,"rotationY":0,"rotationZ":0,"transformOriginX":50,"transformOriginY":50,"transformOriginZ":"0px","opacity":1}}'>
 									<div class="one-bullet-list mb-1em">
 										<ul class="reset-ul">
-											<li class="flex items-center mb-10 text-16 leading-1/5em text-gray-600">Visual Identity</li>
-											<li class="flex items-center mb-10 text-16 leading-1/5em text-gray-600">Brand Strategy</li>
-											<li class="flex items-center mb-10 text-16 leading-1/5em text-gray-600">Analytics / Optimization</li>
+											<li class="flex items-center mb-10 text-16 leading-1/5em text-gray-600">Revolutionize</li>
+											<li class="flex items-center mb-10 text-16 leading-1/5em text-gray-600">Resume building</li>
+											<li class="flex items-center mb-10 text-16 leading-1/5em text-gray-600">Empower job seekers</li>
 										</ul>
 									</div>
 								</div>
 								<div class="col col-12 col-md-4 col-lg-3" data-custom-animations="true" data-ca-options='{"triggerHandler":"inview","animationTarget":"all-childs","duration":"1600","startDelay":"650","delay":"160","ease":"power4.out","direction":"forward","initValues":{"y":65,"rotationY":10,"rotationZ":2,"transformOriginX":0,"transformOriginY":50,"transformOriginZ":"0px","opacity":0},"animations":{"y":0,"rotationY":0,"rotationZ":0,"transformOriginX":50,"transformOriginY":50,"transformOriginZ":"0px","opacity":1}}'>
 									<div class="one-bullet-list mb-1em">
 										<ul class="reset-ul">
-											<li class="flex items-center mb-10 text-16 leading-1/5em text-gray-600">Brand Strategy</li>
-											<li class="flex items-center mb-10 text-16 leading-1/5em text-gray-600">Content Management</li>
-											<li class="flex items-center mb-10 text-16 leading-1/5em text-gray-600">WordPress</li>
+											<li class="flex items-center mb-10 text-16 leading-1/5em text-gray-600">ATS Optimization</li>
+											<li class="flex items-center mb-10 text-16 leading-1/5em text-gray-600">JD Checker</li>
+											<li class="flex items-center mb-10 text-16 leading-1/5em text-gray-600">Intuitive platform</li>
 										</ul>
 									</div>
 								</div>
@@ -194,54 +194,36 @@
 										<div class="row">
 											<div class="col col-12" data-custom-animations="true" data-ca-options='{"triggerHandler":"inview","animationTarget":"all-childs","duration":"1600","startDelay":"400","delay":"12","ease":"power4.out","direction":"forward","initValues":{"rotationX":75,"rotationY":10,"rotationZ":10,"transformOriginX":0,"transformOriginY":50,"transformOriginZ":"0px","opacity":0},"animations":{"rotationX":0,"rotationY":0,"rotationZ":0,"transformOriginX":50,"transformOriginY":50,"transformOriginZ":"0px","opacity":1}}'>
 												<div class="relative flex flex-col items-start">
-													<h6 class="ld-fh-element py-5 px-15 mb-1/5em bg-red-500 rounded-100 text-10 uppercase font-normal tracking-0/1em text-white"> Our vision</h6>
-													<h2 class="ld-fh-element lqd-split-chars mb-0/5em text-62 font-medium leading-1em" data-split-text="true" data-split-options='{"type":"chars, words"}'> Beyond conventional agencies.</h2>
+													<h6 class="ld-fh-element py-5 px-15 mb-1/5em bg-red-500 rounded-100 text-10 uppercase font-normal tracking-0/1em text-white"> ALL-IN-ONE CAREER SOLUTION</h6>
+													<h2 class="ld-fh-element lqd-split-chars mb-0/5em text-62 font-medium leading-1em" data-split-text="true" data-split-options='{"type":"chars, words"}'>The AI-Powered Career Services Tool for Your Organization's Success</h2>
 												</div>
 											</div>
 											<div class="col col-12 col-md-6 mb-50 module-first" data-custom-animations="true" data-ca-options='{"triggerHandler":"inview","animationTarget":"all-childs","duration":"1600","startDelay":"700","delay":"160","ease":"power4.out","direction":"forward","initValues":{"y":30,"transformOriginX":50,"transformOriginY":50,"transformOriginZ":"0px"},"animations":{"y":0,"transformOriginX":50,"transformOriginY":50,"transformOriginZ":"0px"}}'>
 												<div class="ld-fancy-heading mask-text">
-													<p class="ld-fh-element lqd-split-lines mb-0/5em text-15 leading-1/3em text-black" data-split-text="true" data-split-options='{"type":"lines"}'> As a leading digital agency in Paris, we look to engage with our clients beyond the conventional design and development agency relationship, becoming a partner to the</p>
+													<p class="ld-fh-element lqd-split-lines mb-0/5em text-15 leading-1/3em text-black" data-split-text="true" data-split-options='{"type":"lines"}'> Delivering career services has never been so efficient, with no more data silos, allowing everyone in your team to work in the same place.</p>
 												</div>
 											</div>
 											<div class="col col-12 col-md-6 col-lg-5 offset-lg-1 mb-50 module-last" data-custom-animations="true" data-ca-options='{"triggerHandler":"inview","animationTarget":"all-childs","duration":"1600","startDelay":"850","delay":"160","ease":"power4.out","direction":"forward","initValues":{"y":30,"transformOriginX":50,"transformOriginY":50,"transformOriginZ":"0px"},"animations":{"y":0,"transformOriginX":50,"transformOriginY":50,"transformOriginZ":"0px"}}'>
 												<div class="ld-fancy-heading mask-text">
-													<p class="ld-fh-element lqd-split-lines mb-0/5em text-15 leading-1/3em text-black" data-split-text="true" data-split-options='{"type":"lines"}'> We create brand identities, digital experiences, and print materials that communicate clearly achieve marketing goals, and look fantastic. Urban design</p>
+													<p class="ld-fh-element lqd-split-lines mb-0/5em text-15 leading-1/3em text-black" data-split-text="true" data-split-options='{"type":"lines"}'>Say goodbye to data silos and inefficiencies, as Kareerfy unites your team in one seamless platform.</p>
 												</div>
 											</div>
-											<div class="col col-12 col-md-6" data-custom-animations="true" data-ca-options='{"triggerHandler":"inview","animationTarget":"all-childs","duration":"1600","startDelay":"1000","delay":"160","ease":"power4.out","direction":"forward","initValues":{"y":65,"rotationY":10,"rotationZ":2,"transformOriginX":0,"transformOriginY":50,"transformOriginZ":"0px","opacity":0},"animations":{"y":0,"rotationY":0,"rotationZ":0,"transformOriginX":50,"transformOriginY":50,"transformOriginZ":"0px","opacity":1}}'>
+											<div class="col col-12 col-md-12" data-custom-animations="true" data-ca-options='{"triggerHandler":"inview","animationTarget":"all-childs","duration":"1600","startDelay":"1000","delay":"160","ease":"power4.out","direction":"forward","initValues":{"y":65,"rotationY":10,"rotationZ":2,"transformOriginX":0,"transformOriginY":50,"transformOriginZ":"0px","opacity":0},"animations":{"y":0,"rotationY":0,"rotationZ":0,"transformOriginX":50,"transformOriginY":50,"transformOriginZ":"0px","opacity":1}}'>
 												<h6 class="ld-fh-element mb-2em text-12 uppercase font-medium leading-1/3em tracking-0/05em text-black"> Kareerfy Services</h6>
 												<div class="lqd-fancy-menu lqd-custom-menu lqd-menu-td-none lqd-magnetic-items">
 													<ul class="reset-ul">
 														<li class="w-full relative flex flex-wrap items-start mb-20">
-															<a class="w-full relative flex items-center text-20 leading-1/5em text-black" href="#" target="_blank"> Visual Identity</a></li>
+															<a class="w-full relative flex items-center text-20 leading-1/5em text-black" href="#" target="_blank"> Empower Job Seekers to take control of their job search processes with a host of features integrated with 65+ career sites.</a></li>
 														<li class="w-full relative flex flex-wrap items-start mb-20">
-															<a class="w-full relative flex items-center text-20 leading-1/5em text-black" href="#" target="_blank"> Brand Strategy</a></li>
+															<a class="w-full relative flex items-center text-20 leading-1/5em text-black" href="#" target="_blank"> Enable your Career coaching team with deep insights into job seeker data.</a></li>
 														<li class="w-full relative flex flex-wrap items-start mb-20">
-															<a class="w-full relative flex items-center text-20 leading-1/5em text-black" href="#" target="_blank"> Analytics & Optimization</a></li>
+															<a class="w-full relative flex items-center text-20 leading-1/5em text-black" href="#" target="_blank"> Equip your organization with a white-labeled portal for your stakeholders and rich metrics useful for marketing, partnerships, and reporting.</a></li>
 														<li class="w-full relative flex flex-wrap items-start mb-20">
-															<a class="w-full relative flex items-center text-20 leading-1/5em text-black" href="#" target="_blank"> Graphic Design</a></li>
-														<li class="w-full relative flex flex-wrap items-start">
-															<a class="w-full relative flex items-center text-20 leading-1/5em text-black" href="#" target="_blank"> Web and Mobile Engineering</a></li>
+														
 													</ul>
 												</div>
 											</div>
-											<div class="col col-12 col-md-6" data-custom-animations="true" data-ca-options='{"triggerHandler":"inview","animationTarget":"all-childs","duration":"1600","startDelay":"1150","delay":"160","ease":"power4.out","direction":"forward","initValues":{"y":65,"rotationY":10,"rotationZ":2,"transformOriginX":0,"transformOriginY":50,"transformOriginZ":"0px","opacity":0},"animations":{"y":0,"rotationY":0,"rotationZ":0,"transformOriginX":50,"transformOriginY":50,"transformOriginZ":"0px","opacity":1}}'>
-												<h6 class="ld-fh-element mb-2em text-12 uppercase font-medium leading-1-3em tracking-0/05em text-black"> Kareerfy Services</h6>
-												<div class="lqd-fancy-menu lqd-custom-menu lqd-menu-td-none lqd-magnetic-items">
-													<ul class="reset-ul">
-														<li class="w-full relative flex flex-wrap items-start mb-20">
-															<a class="w-full relative flex items-center text-20 leading-1/5em text-black" href="#" target="_blank"> Visual Identity</a></li>
-														<li class="w-full relative flex flex-wrap items-start mb-20">
-															<a class="w-full relative flex items-center text-20 leading-1/5em text-black" href="#" target="_blank"> Brand Strategy</a></li>
-														<li class="w-full relative flex flex-wrap items-start mb-20">
-															<a class="w-full relative flex items-center text-20 leading-1/5em text-black" href="#" target="_blank"> Analytics & Optimization</a></li>
-														<li class="w-full relative flex flex-wrap items-start mb-20">
-															<a class="w-full relative flex items-center text-20 leading-1/5em text-black" href="#" target="_blank"> Graphic Design</a></li>
-														<li class="w-full relative flex flex-wrap items-start">
-															<a class="w-full relative flex items-center text-20 leading-1/5em text-black" href="#" target="_blank"> Web and Mobile Engineering</a></li>
-													</ul>
-												</div>
-											</div>
+											
 										</div>
 									</div>
 								</div>

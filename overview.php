@@ -4,7 +4,7 @@
 	<head>
 		<?php include "include/meta.php" ?>
 
-		<title>Kareerfy | Contact</title>
+		<title>Kareerfy | Overview</title>
 	</head>
 
 	<body class="lqd-preloader-activated lqd-preloader-style-spinner" data-localscroll-offset="120" data-mobile-nav-breakpoint="1199" data-mobile-nav-style="minimal" data-mobile-nav-scheme="light" data-mobile-nav-trigger-alignment="right" data-mobile-header-scheme="light" data-mobile-logo-alignment="default" data-overlay-onmobile="false">
@@ -174,7 +174,7 @@
 										<h2 class="ld-fh-element mb-0/4em text-48 leading-1/1em text-white"> This is what we do best.</h2>
 									</div>
 									<div class="col col-12 col-md-6 col-lg-4 self-end animation-element">
-										<p class="ld-fh-element mb-1/25em text-13 leading-1/5em text-white-50"> We build and activate brands through cultural insight, strategic vision, and the power of emotion across every element.</p>
+										<p class="ld-fh-element mb-1/25em text-13 leading-1/5em text-white-50"> Our platform is designed to be intuitive, efficient, and indispensable, guiding users towards their dream careers with confidence and clarity.</p>
 									</div>
 									<div class="col col-12 col-lg-8 col-xl-9 offset-lg-4 offset-xl-3 p-0">
 										<div class="container-fluid relative flex flex-col flex-grow-1 justify-end pt-60 module-icon-box">
@@ -187,9 +187,9 @@
 															</span>
 														</div>
 														<div class="contents">
-															<h3 class="mb-5 text-20 leading-1/5em text-white">Application Design</h3>
+															<h3 class="mb-5 text-20 leading-1/5em text-white">AI Resume Builder</h3>
 															<p>
-																<span class="text-15 text-gray-400">I enjoy turning complex problems into simple solutions.</span>
+																<span class="text-15 text-gray-400">Build job worthy resumes with AI precision.</span>
 															</p>
 														</div>
 													</div>
@@ -202,9 +202,9 @@
 															</span>
 														</div>
 														<div class="contents">
-															<h3 class="mb-5 text-20 leading-1/5em text-white">Search Engine Opt.</h3>
+															<h3 class="mb-5 text-20 leading-1/5em text-white">AI Cover Letter Generator</h3>
 															<p>
-																<span class="text-15 text-gray-400">Creating brand identities, digital experiences, that communicate</span>
+																<span class="text-15 text-gray-400">Personalize cover letters for every application effortlessly.</span>
 															</p>
 														</div>
 													</div>
@@ -217,9 +217,9 @@
 															</span>
 														</div>
 														<div class="contents">
-															<h3 class="mb-5 text-20 leading-1/5em text-white">User Interface</h3>
+															<h3 class="mb-5 text-20 leading-1/5em text-white">AI LinkedIn Optimisation</h3>
 															<p>
-																<span class="text-15 text-gray-400">Beautiful and intuitive interface designs for clients.</span>
+																<span class="text-15 text-gray-400">Boost your LinkedIn presence with AI-driven insights.</span>
 															</p>
 														</div>
 													</div>
@@ -232,9 +232,9 @@
 															</span>
 														</div>
 														<div class="contents">
-															<h3 class="mb-5 text-20 leading-1/5em text-white">Social Media</h3>
+															<h3 class="mb-5 text-20 leading-1/5em text-white">AI Elevator Pitch</h3>
 															<p>
-																<span class="text-15 text-gray-400">Creating brand identities, digital experiences, that communicate.</span>
+																<span class="text-15 text-gray-400">Create compelling job pitches tailored to each opportunity.</span>
 															</p>
 														</div>
 													</div>
@@ -247,9 +247,9 @@
 															</span>
 														</div>
 														<div class="contents">
-															<h3 class="mb-5 text-20 leading-1/5em text-white">App Development</h3>
+															<h3 class="mb-5 text-20 leading-1/5em text-white">AI Mock Interview</h3>
 															<p>
-																<span class="text-15 text-gray-400">My aim is to bring across your message and identity.</span>
+																<span class="text-15 text-gray-400">Practice and perfect your interview skills with AI guidance.</span>
 															</p>
 														</div>
 													</div>
@@ -262,9 +262,9 @@
 															</span>
 														</div>
 														<div class="contents">
-															<h3 class="mb-5 text-20 leading-1/5em text-white">Branding Strategy</h3>
+															<h3 class="mb-5 text-20 leading-1/5em text-white">Autofill Applications</h3>
 															<p>
-																<span class="text-15 text-gray-400">Great work for clients with meaningful missions.</span>
+																<span class="text-15 text-gray-400">Fill out job applications quickly & accurately with AI recommendations.</span>
 															</p>
 														</div>
 													</div>
@@ -384,7 +384,7 @@
 													<div class="accordion-heading" role="tab" id="heading-tab-1">
 														<h4 class="accordion-title">
 															<a class="collapsed text-16 leading-2em bg-gray-100 " role="button" data-bs-toggle="collapse" href="#collapse-question-tab-1" aria-expanded="true" aria-controls="collapse-question-tab-1">
-																<span class="accordion-title-txt">End-to-end encryption for iOS Devices</span>
+																<span class="accordion-title-txt">What is Kareefy?</span>
 																<span class="text-22 text-brown-500 accordion-expander">
 																	<i class="lqd-icn-ess icon-ion-ios-add"></i>
 																	<i class="lqd-icn-ess icon-ion-ios-remove"></i>
@@ -393,91 +393,7 @@
 														</h4>
 													</div>
 													<div id="collapse-question-tab-1" class="accordion-collapse collapse show" role="tabpanel" aria-labelledby="heading-tab-1" data-bs-parent="#accordion-question-parent-1">
-														<div class="text-15 accordion-content">Content-focused grid designs, unique social elements, post-sharing function, author exposure, sticky newsletter. </div>
-													</div>
-												</div>
-												<div class="accordion-item panel mb-20">
-													<div class="accordion-heading" role="tab" id="heading-tab-2">
-														<h4 class="accordion-title">
-															<a class="collapsed text-16 leading-2em bg-gray-100 " role="button" data-bs-toggle="collapse" href="#collapse-question-tab-2" aria-expanded="false" aria-controls="collapse-question-tab-2">
-																<span class="accordion-title-txt">Sending media, location and contacts</span>
-																<span class="text-22 text-brown-500 accordion-expander">
-																	<i class="lqd-icn-ess icon-ion-ios-add"></i>
-																	<i class="lqd-icn-ess icon-ion-ios-remove"></i>
-																</span>
-															</a>
-														</h4>
-													</div>
-													<div id="collapse-question-tab-2" class="accordion-collapse collapse " role="tabpanel" aria-labelledby="heading-tab-2" data-bs-parent="#accordion-question-parent-1">
-														<div class="text-15 accordion-content">Content-focused grid designs, unique social elements, post-sharing function, author exposure, sticky newsletter. </div>
-													</div>
-												</div>
-												<div class="accordion-item panel mb-20">
-													<div class="accordion-heading" role="tab" id="heading-tab-3">
-														<h4 class="accordion-title">
-															<a class="collapsed text-16 leading-2em bg-gray-100 " role="button" data-bs-toggle="collapse" href="#collapse-question-tab-3" aria-expanded="false" aria-controls="collapse-question-tab-3">
-																<span class="accordion-title-txt">Get insights on key metrics time</span>
-																<span class="text-22 text-brown-500 accordion-expander">
-																	<i class="lqd-icn-ess icon-ion-ios-add"></i>
-																	<i class="lqd-icn-ess icon-ion-ios-remove"></i>
-																</span>
-															</a>
-														</h4>
-													</div>
-													<div id="collapse-question-tab-3" class="accordion-collapse collapse " role="tabpanel" aria-labelledby="heading-tab-3" data-bs-parent="#accordion-question-parent-1">
-														<div class="text-15 accordion-content">Content-focused grid designs, unique social elements, post-sharing function, author exposure, sticky newsletter. </div>
-													</div>
-												</div>
-												<div class="accordion-item panel">
-													<div class="accordion-heading" role="tab" id="heading-tab-4">
-														<h4 class="accordion-title">
-															<a class="collapsed text-16 leading-2em bg-gray-100 " role="button" data-bs-toggle="collapse" href="#collapse-question-tab-4" aria-expanded="false" aria-controls="collapse-question-tab-4">
-																<span class="accordion-title-txt">Calling unavailable in some countries</span>
-																<span class="text-22 text-brown-500 accordion-expander">
-																	<i class="lqd-icn-ess icon-ion-ios-add"></i>
-																	<i class="lqd-icn-ess icon-ion-ios-remove"></i>
-																</span>
-															</a>
-														</h4>
-													</div>
-													<div id="collapse-question-tab-4" class="accordion-collapse collapse " role="tabpanel" aria-labelledby="heading-tab-4" data-bs-parent="#accordion-question-parent-1">
-														<div class="text-15 accordion-content">Content-focused grid designs, unique social elements, post-sharing function, author exposure, sticky newsletter. </div>
-													</div>
-												</div>
-											</div>
-										</div>
-										<div class="col col-12 col-md-6 p-30 md:p-0">
-											<div class="accordion accordion-md accordion-side-spacing accordion-title-circle accordion-expander-lg accordion-active-has-shadow accordion-active-has-fill" id="accordion-question-parent-2" role="tablist" aria-multiselectable="true">
-												<div class="accordion-item panel mb-20">
-													<div class="accordion-heading" role="tab" id="heading-tab-5">
-														<h4 class="accordion-title">
-															<a class="collapsed text-16 leading-2em bg-gray-100 " role="button" data-bs-toggle="collapse" href="#collapse-question-tab-5" aria-expanded="false" aria-controls="collapse-question-tab-5">
-																<span class="accordion-title-txt">Google mobile can monetize your app</span>
-																<span class="text-22 text-brown-500 accordion-expander">
-																	<i class="lqd-icn-ess icon-ion-ios-add"></i>
-																	<i class="lqd-icn-ess icon-ion-ios-remove"></i>
-																</span>
-															</a>
-														</h4>
-													</div>
-													<div id="collapse-question-tab-5" class="accordion-collapse collapse " role="tabpanel" aria-labelledby="heading-tab-5" data-bs-parent="#accordion-question-parent-2">
-														<div class="text-15 accordion-content">Content-focused grid designs, unique social elements, post-sharing function, author exposure, sticky newsletter. </div>
-													</div>
-												</div>
-												<div class="accordion-item panel mb-20">
-													<div class="accordion-heading" role="tab" id="heading-tab-6">
-														<h4 class="accordion-title">
-															<a class="collapsed text-16 leading-2em bg-gray-100 " role="button" data-bs-toggle="collapse" href="#collapse-question-tab-6" aria-expanded="false" aria-controls="collapse-question-tab-6">
-																<span class="accordion-title-txt">How to restore your chat history?</span>
-																<span class="text-22 text-brown-500 accordion-expander">
-																	<i class="lqd-icn-ess icon-ion-ios-add"></i>
-																	<i class="lqd-icn-ess icon-ion-ios-remove"></i>
-																</span>
-															</a>
-														</h4>
-													</div>
-													<div id="collapse-question-tab-6" class="accordion-collapse collapse " role="tabpanel" aria-labelledby="heading-tab-6" data-bs-parent="#accordion-question-parent-2">
-														<div class="text-15 accordion-content">Content-focused grid designs, unique social elements, post-sharing function, author exposure, sticky newsletter. </div>
+														<div class="text-15 accordion-content">Kareefy is a comprehensive online platform designed to assist job seekers in crafting professional resumes tailored to their desired positions and industries. Our platform utilizes advanced algorithms and industry expertise to optimize resumes for applicant tracking systems (ATS) and enhance visibility to potential employers.</div>
 													</div>
 												</div>
 												<div class="accordion-item panel">
@@ -496,6 +412,93 @@
 														<div class="text-15 accordion-content">Content-focused grid designs, unique social elements, post-sharing function, author exposure, sticky newsletter. </div>
 													</div>
 												</div>
+												<div class="accordion-item panel mb-20">
+													<div class="accordion-heading" role="tab" id="heading-tab-2">
+														<h4 class="accordion-title">
+															<a class="collapsed text-16 leading-2em bg-gray-100 " role="button" data-bs-toggle="collapse" href="#collapse-question-tab-2" aria-expanded="false" aria-controls="collapse-question-tab-2">
+																<span class="accordion-title-txt">Is Kareefy suitable for all industries and job levels?</span>
+																<span class="text-22 text-brown-500 accordion-expander">
+																	<i class="lqd-icn-ess icon-ion-ios-add"></i>
+																	<i class="lqd-icn-ess icon-ion-ios-remove"></i>
+																</span>
+															</a>
+														</h4>
+													</div>
+													<div id="collapse-question-tab-2" class="accordion-collapse collapse " role="tabpanel" aria-labelledby="heading-tab-2" data-bs-parent="#accordion-question-parent-1">
+														<div class="text-15 accordion-content">Yes, Kareefy caters to individuals across various industries and job levels, from entry-level positions to executive roles. Our platform offers a diverse range of templates and customization options to accommodate the unique needs of every user.</div>
+													</div>
+												</div>
+												<div class="accordion-item panel mb-20">
+													<div class="accordion-heading" role="tab" id="heading-tab-3">
+														<h4 class="accordion-title">
+															<a class="collapsed text-16 leading-2em bg-gray-100 " role="button" data-bs-toggle="collapse" href="#collapse-question-tab-3" aria-expanded="false" aria-controls="collapse-question-tab-3">
+																<span class="accordion-title-txt">Is my information secure with Kareefy?</span>
+																<span class="text-22 text-brown-500 accordion-expander">
+																	<i class="lqd-icn-ess icon-ion-ios-add"></i>
+																	<i class="lqd-icn-ess icon-ion-ios-remove"></i>
+																</span>
+															</a>
+														</h4>
+													</div>
+													<div id="collapse-question-tab-3" class="accordion-collapse collapse " role="tabpanel" aria-labelledby="heading-tab-3" data-bs-parent="#accordion-question-parent-1">
+														<div class="text-15 accordion-content">Yes, Kareefy takes data privacy and security seriously. We utilize industry-standard encryption protocols to safeguard user information and maintain strict confidentiality measures. Your personal and professional data are protected throughout the resume-building process.</div>
+													</div>
+												</div>
+												
+											</div>
+										</div>
+										<div class="col col-12 col-md-6 p-30 md:p-0">
+											<div class="accordion accordion-md accordion-side-spacing accordion-title-circle accordion-expander-lg accordion-active-has-shadow accordion-active-has-fill" id="accordion-question-parent-2" role="tablist" aria-multiselectable="true">
+												<div class="accordion-item panel mb-20">
+													<div class="accordion-heading" role="tab" id="heading-tab-4">
+														<h4 class="accordion-title">
+															<a class="collapsed text-16 leading-2em bg-gray-100 " role="button" data-bs-toggle="collapse" href="#collapse-question-tab-4" aria-expanded="false" aria-controls="collapse-question-tab-4">
+																<span class="accordion-title-txt">Does Kareefy offer additional services besides resume building?</span>
+																<span class="text-22 text-brown-500 accordion-expander">
+																	<i class="lqd-icn-ess icon-ion-ios-add"></i>
+																	<i class="lqd-icn-ess icon-ion-ios-remove"></i>
+																</span>
+															</a>
+														</h4>
+													</div>
+													<div id="collapse-question-tab-4" class="accordion-collapse collapse " role="tabpanel" aria-labelledby="heading-tab-4" data-bs-parent="#accordion-question-parent-1">
+														<div class="text-15 accordion-content">In addition to resume optimization, Kareefy offers supplementary services such as cover letter creation, LinkedIn profile optimization, and job application tracking. Our goal is to provide comprehensive support to job seekers throughout their career advancement journey.</div>
+													</div>
+												</div>
+												<div class="accordion-item panel mb-20">
+													<div class="accordion-heading" role="tab" id="heading-tab-5">
+														<h4 class="accordion-title">
+															<a class="collapsed text-16 leading-2em bg-gray-100 " role="button" data-bs-toggle="collapse" href="#collapse-question-tab-5" aria-expanded="false" aria-controls="collapse-question-tab-5">
+																<span class="accordion-title-txt">Can I edit my resume after generating it with Kareefy?</span>
+																<span class="text-22 text-brown-500 accordion-expander">
+																	<i class="lqd-icn-ess icon-ion-ios-add"></i>
+																	<i class="lqd-icn-ess icon-ion-ios-remove"></i>
+																</span>
+															</a>
+														</h4>
+													</div>
+													<div id="collapse-question-tab-5" class="accordion-collapse collapse " role="tabpanel" aria-labelledby="heading-tab-5" data-bs-parent="#accordion-question-parent-2">
+														<div class="text-15 accordion-content">CAbsolutely! Kareefy provides users with the flexibility to edit and customize their resumes at any time. You can easily update information, adjust formatting, and tailor content to specific job opportunities as needed.</div>
+													</div>
+												</div>
+												<div class="accordion-item panel mb-20">
+													<div class="accordion-heading" role="tab" id="heading-tab-6">
+														<h4 class="accordion-title">
+															<a class="collapsed text-16 leading-2em bg-gray-100 " role="button" data-bs-toggle="collapse" href="#collapse-question-tab-6" aria-expanded="false" aria-controls="collapse-question-tab-6">
+																<span class="accordion-title-txt">How does Kareefy work?</span>
+																<span class="text-22 text-brown-500 accordion-expander">
+																	<i class="lqd-icn-ess icon-ion-ios-add"></i>
+																	<i class="lqd-icn-ess icon-ion-ios-remove"></i>
+																</span>
+															</a>
+														</h4>
+													</div>
+													<div id="collapse-question-tab-6" class="accordion-collapse collapse " role="tabpanel" aria-labelledby="heading-tab-6" data-bs-parent="#accordion-question-parent-2">
+														<div class="text-15 accordion-content">Kareefy streamlines the resume-building process by guiding users through a series of intuitive steps. Users input their relevant personal and professional information, select desired job titles and industries, and our platform generates customized resume templates. These templates are optimized to meet the requirements of ATS and increase the chances of landing interviews.
+</div>
+													</div>
+												</div>
+												
 											</div>
 										</div>
 									</div>
