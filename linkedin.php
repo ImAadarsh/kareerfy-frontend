@@ -5,7 +5,7 @@
 		<?php include "include/meta.php" ; ?>
 		<link rel="stylesheet" href="./assets/css/demo/start-hub-3/base.css">
 		<link rel="stylesheet" href="./assets/css/demo/start-hub-3/start-hub-3.css">
-		<title>Kareefy FAQ </title>
+		<title>Kareefy Linkedin Optimization </title>
 	</head>
 
 	<body class="lqd-preloader-style-fade lqd-sticky-footer-shadow-2 lqd-search-style-slide-top" data-localscroll-offset="72" data-mobile-nav-breakpoint="1199" data-mobile-nav-style="classic" data-mobile-nav-scheme="light" data-mobile-nav-trigger-alignment="right" data-mobile-header-scheme="gray" data-mobile-logo-alignment="default" data-overlay-onmobile="false">
