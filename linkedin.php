@@ -35,26 +35,17 @@
 									</div>
 									<div class="ld-fancy-heading relative">
 										<h1 class="mb-25 ld-fh-element relative">
-											<span>Social Media</span>
+											<span>Stand Out on </span>
 											<br>
-											<span class="gradient-word" style="background-image: linear-gradient(to left, #E6A042, #FA6E30, #E7BABB, #AC99E3, #8296D6);">Booster</span>
+											<span class="gradient-word" style="background-image: linear-gradient(to left, #4842e6, #3995d3, #46ace2, #6aa4ce, #93c3cb);">LinkedIn</span>
 										</h1>
 									</div>
 									<div class="ld-fancy-heading relative">
-										<p class="font-medium mb-25 pr-30percent ld-fh-element relative">AI Powered Support Experience - Our support team will get assistance from AI-powered suggestions.</p>
+										<p class="font-medium mb-25 pr-30percent ld-fh-element relative">Elevate your professional presence and attract opportunities with a standout LinkedIn profile that catches the eye of recruiters, peers, and potential connections.</p>
 									</div>
 									<div class="flex flex-wrap justify-start lg:justify-center">
-										<a href="#download" class="btn btn-solid btn-hover-txt-liquid-x btn-icon-left text-15 leading-1em text-white rounded-6 bg-gray-900 hover:bg-white hover:text-primary" data-localscroll="true">
-											<span class="btn-txt text-start" data-text='Available on the Apple Store' data-split-text="true" data-split-options='{"type":  "chars, words"}'> <small>Available on the</small>
-												<span>Apple Store</span>
-											</span>
-											<span class="btn-icon text-24">
-												<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512">
-													<path d="M318.7 268.7c-.2-36.7 16.4-64.4 50-84.8-18.8-26.9-47.2-41.7-84.7-44.6-35.5-2.8-74.3 20.7-88.5 20.7-15 0-49.4-19.7-76.4-19.7C63.3 141.2 4 184.8 4 273.5q0 39.3 14.4 81.2c12.8 36.7 59 126.7 107.2 125.2 25.2-.6 43-17.9 75.8-17.9 31.8 0 48.3 17.9 76.4 17.9 48.6-.7 90.4-82.5 102.6-119.3-65.2-30.7-61.7-90-61.7-91.9zm-56.6-164.2c27.3-32.4 24.8-61.9 24-72.5-24.1 1.4-52 16.4-67.9 34.9-17.5 19.8-27.8 44.3-25.6 71.9 26.1 2 49.9-11.4 69.5-34.3z" />
-												</svg>
-											</span>
-										</a>
-										<a href="#contact-modal" class="btn btn-naked btn-icon-right btn-hover-swp ml-30 text-14 text-slate-400" data-lity="#contact-modal">
+										
+										<a href="#contact-modal" class="btn btn-solid btn-hover-txt-liquid-x btn-icon-left text-15 leading-1em text-white rounded-6 bg-gray-900 " data-lity="#contact-modal">
 											<span class="btn-txt" data-text="Sign up — It's Free">Sign up — It's Free</span>
 											<span class="btn-icon">
 												<i aria-hidden="true" class="lqd-icn-ess icon-ion-ios-arrow-forward"></i>
@@ -112,17 +103,17 @@
 											</div>
 										</div>
 										<div class="ld-fancy-heading relative">
-											<h2 class="text-50 ld-fh-element mb-0/5em inline-block relative" data-text-rotator="true">
-												<span>Why we' re</span>
+											<h2 class="text-40 ld-fh-element mb-0/5em inline-block relative" data-text-rotator="true">
+												<span>Unlock Your LinkedIn </span>
 												<span class="txt-rotate-keywords">
 													<span class="txt-rotate-keyword active">
-														<span>better</span>
+														<span>Potential</span>
 													</span>
 													<span class="txt-rotate-keyword">
-														<span>flexible</span>
+														<span>Advantage</span>
 													</span>
 													<span class="txt-rotate-keyword">
-														<span>affordable</span>
+														<span>Journey</span>
 													</span>
 												</span>
 											</h2>
@@ -151,12 +142,12 @@
 											</div>
 											<div class="contents">
 												<h3 class="lqd-iconbox-heading text-18 text-primary leading-1em">
-													<span>eCommerce Solutions</span>
+													<span>Optimization Guidance</span>
 													<svg class="inline-block" xmlns="http://www.w3.org/2000/svg" width="12" height="32" viewbox="0 0 12 32">
 														<path fill="currentColor" d="M8.375 16L.437 8.062C-.125 7.5-.125 6.5.438 5.938s1.563-.563 2.126 0l9 9c.562.562.624 1.5.062 2.062l-9.063 9.063c-.312.312-.687.437-1.062.437s-.75-.125-1.063-.438c-.562-.562-.562-1.562 0-2.125z"></path>
 													</svg>
 												</h3>
-												<p>Content-focused grid designs, unique social elements, post-sharing function, author exposure, sticky newsletter.</p>
+												<p>Knowing your profile score provides valuable insights into how well your LinkedIn profile is optimized.</p>
 											</div>
 										</div>
 									</div>
@@ -177,12 +168,12 @@
 											</div>
 											<div class="contents">
 												<h3 class="lqd-iconbox-heading text-18 text-primary leading-1em">
-													<span>SEO Analytics</span>
+													<span>Competitive Benchmarking</span>
 													<svg class="inline-block" xmlns="http://www.w3.org/2000/svg" width="12" height="32" viewbox="0 0 12 32">
 														<path fill="currentColor" d="M8.375 16L.437 8.062C-.125 7.5-.125 6.5.438 5.938s1.563-.563 2.126 0l9 9c.562.562.624 1.5.062 2.062l-9.063 9.063c-.312.312-.687.437-1.062.437s-.75-.125-1.063-.438c-.562-.562-.562-1.562 0-2.125z"></path>
 													</svg>
 												</h3>
-												<p>Content-focused grid designs, unique social elements, post-sharing function, author exposure, sticky newsletter.</p>
+												<p>Comparing your profile score with others in your industry or network allows you to benchmark your performance and identify areas where you excel or lag behind.</p>
 											</div>
 										</div>
 									</div>
@@ -203,12 +194,12 @@
 											</div>
 											<div class="contents">
 												<h3 class="lqd-iconbox-heading text-18 text-primary leading-1em">
-													<span>Digital Solutions</span>
+													<span>Increased Visibility and Credibility</span>
 													<svg class="inline-block" xmlns="http://www.w3.org/2000/svg" width="12" height="32" viewbox="0 0 12 32">
 														<path fill="currentColor" d="M8.375 16L.437 8.062C-.125 7.5-.125 6.5.438 5.938s1.563-.563 2.126 0l9 9c.562.562.624 1.5.062 2.062l-9.063 9.063c-.312.312-.687.437-1.062.437s-.75-.125-1.063-.438c-.562-.562-.562-1.562 0-2.125z"></path>
 													</svg>
 												</h3>
-												<p>Content-focused grid designs, unique social elements, post-sharing function, author exposure, sticky newsletter.</p>
+												<p>A higher profile score signals to recruiters, employers, and potential connections that you are actively engaged on LinkedIn and have a well-optimized profile. </p>
 											</div>
 										</div>
 									</div>
@@ -307,12 +298,12 @@
 											</h3>
 										</div>
 										<div class="ld-fancy-heading relative animation-element">
-											<h2 class="ld-fh-element mb-0/5em inline-block relative">Agile and Scale.</h2>
+											<h2 class="ld-fh-element mb-0/5em inline-block relative">Optimize your LinkedIn Persona.</h2>
 										</div>
 										<div class="ld-fancy-heading relative animation-element">
 											<p class="text-18 font-normal mr-2em mb-0/5em ld-fh-element relative">
-												<span class="text-black">Bring your ideas to life with an intuitive visual editor.</span>
-												<span>Create, edit, and customize your website visually and see the changes instantly.coding required!</span>
+												<span class="text-black">Revolutionize your LinkedIn presence, </span>
+												<span>transforming your profile into a magnetic force for success!</span>
 											</p>
 										</div>
 										<div class="spacer w-full animation-element">
