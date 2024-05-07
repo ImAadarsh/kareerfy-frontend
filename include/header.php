@@ -75,6 +75,7 @@
 														<li><a href="#"><i class="fa-solid fa-user-tie p-10" style="color: #21214f;"></i>Interview Guides<span class="link-badge text-primary">Upcoming</span></a></li>
 														<li><a href="#"><i class="fa-solid fa-lightbulb p-10" style="color: #21214f;"></i>Job Search Tips<span class="link-badge text-primary">Upcoming</span></a></li>
 														<li><a href="#"><i class="fa-solid fa-atom p-10" style="color: #21214f;"></i>ChatGPT Guides<span class="link-badge text-primary">Upcoming</span></a></li>
+														<li><a href="linkedin.php"><i class="fa-solid fa-atom p-10" style="color: #21214f;"></i>Linkedin Optimization<span class="link-badge text-primary">New</span></a></li>
 														<li><a href="help-center.php"><i class="fa-solid fa-question-circle p-10" style="color: #21214f;"></i>Help Center</a></li>
 													</ul>
 												</li>
